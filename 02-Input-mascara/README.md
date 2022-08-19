@@ -1,0 +1,13 @@
+# MEJORAS A CONSIDERAR
+- [ ] 1. Validar comportamiento de fecha 
+- [ ] 2. Validación asincrona del número de tarjeta
+- [ ] 3. Cuando se elimine un número y este sea antes del guió que también elimine el guión
+- [ ] 4. Personalizar tarjeta al estilo tarjeta del BI
+- [ ] 5. Botón para hacer que la tarjeta sea horizontal o vertical
+- [ ] 6. Que se pueda visualizar de ambos lados al pulsar un botón (transición suave)
+- [ ] 7. Guardar el localstorage si se quiere mantener la tarjeta
+- [ ] 8. Capacidad de personalizar nombre de tarjeta
+- [ ] 9. Simular pago presentando un loading y que indique que se completado exitosamente
+- [ ] 10. Trasladar proyecto a React
+- [ ] 11. Trasladar proyecto a Angular
+- [ ] 12. Añadir a portafolio
